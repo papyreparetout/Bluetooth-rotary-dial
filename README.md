@@ -6,3 +6,5 @@ The rotary phone will be able to send and receive communication and the rotary d
 The hardware is made of a STM32 Bluepill connected to a BT201 Bluetooth module.
 
 Another similar realisation is made with an Arduino nano and a Purpletooth Jamboree module from Sparkfun
+
+change for the last version (main.cpp) due to Serial problems on STM32 and need to integrate the util sub programs into the main
